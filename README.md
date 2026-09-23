@@ -1,3 +1,18 @@
+## Live Demo
+
+[View Live Demo](https://mainkrsna-dot.github.io/netflix-landing-page/)
+
+## Screenshots
+
+### Home / Hero
+![Netflix Landing Page - Home](screenshots/netflix-home.png)
+
+### Content Sections
+![Netflix Landing Page - Content](screenshots/netflix-middle-section-2.png)
+
+### FAQ / Footer
+![Netflix Landing Page - FAQ and Footer](screenshots/netflix-bottom-section.png)
+
 # Netflix Landing Page Clone
 
 A responsive Netflix-inspired landing page built using HTML5 and CSS3.
