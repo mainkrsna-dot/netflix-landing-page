@@ -25,3 +25,12 @@ netflix-landing-page/
 ├── favicon.ico
 ├── index.html
 └── style.css
+```
+
+## How to Run
+
+Open `index.html` in your web browser to run the application.
+
+## Disclaimer
+
+This project is created for educational and portfolio purposes and is not affiliated with Netflix.
